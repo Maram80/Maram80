@@ -1,16 +1,21 @@
-## Hi there 👋
+ Hi, I'm Maram 👋
 
-<!--
-**Maram80/Maram80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CIS Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in software development, mobile applications, and data analytics.
+
+## Skills
+- Java
+- Android Studio
+- Firebase
+- SQL
+
+## Current Goals
+- Building personal projects
+- Improving my technical skills
+- Exploring graduate opportunities
+
+## Connect With Me
+LinkedIn: Coming Soon
