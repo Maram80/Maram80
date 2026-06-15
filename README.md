@@ -1,4 +1,4 @@
- Hi, I'm Maram 👋
+ ## Hi, I'm Maram 👋
 
 🎓 CIS Graduate
 
@@ -18,4 +18,4 @@ I'm interested in software development, mobile applications, and data analytics.
 - Exploring graduate opportunities
 
 ## Connect With Me
-LinkedIn: Coming Soon
+LinkedIn:www.linkedin.com/in/maram-aljohani2
