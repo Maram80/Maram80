@@ -18,4 +18,4 @@ I'm interested in software development, mobile applications, and data analytics.
 - Exploring graduate opportunities
 
 ## Connect With Me
-LinkedIn:www.linkedin.com/in/maram-aljohani2
+LinkedIn: www.linkedin.com/in/maram-aljohani2
